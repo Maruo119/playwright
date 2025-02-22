@@ -24,3 +24,8 @@ page.screenshot() にはいくつかのオプションがあります。例え�
 await page.screenshot({ path: 'screenshot.png' }); // スクリーンショットを保存
 await page.screenshot({ path: 'screenshot.png', fullPage: true, format: 'jpeg' });
 ```
+
+## 暗号化・復号化
+
+### ツール
+https://develop.tools/encrypt-decrypt/
